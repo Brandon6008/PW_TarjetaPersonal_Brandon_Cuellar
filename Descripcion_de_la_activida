@@ -1,0 +1,18 @@
+# 🌟 Tarjeta de Presentación Digital
+
+Este repositorio contiene una actividad práctica de desarrollo web donde se integra el uso de **HTML5**, **CSS3** y **JavaScript** para crear una tarjeta personal interactiva.
+
+## 📝 Descripción de la Actividad
+El objetivo principal es transformar una estructura básica monolítica en una arquitectura de archivos separados, aplicando estilos personalizados y funciones dinámicas. 
+
+### Características principales:
+- **Estructura:** Organización limpia mediante etiquetas semánticas en HTML.
+- **Diseño:** Estilos personalizados en un archivo CSS independiente (colores, bordes y efectos hover).
+- **Interactividad:** Implementación de JavaScript para funciones como cambio de tema (claro/oscuro) y manipulación del DOM.
+
+## 🛠️ Tecnologías utilizadas
+* ![HTML5]
+* ![CSS]
+* ![JS]
+---
+*Proyecto realizado como parte del curso de Programación Web.*
